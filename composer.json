@@ -1,0 +1,10 @@
+{
+    "name": "test1/my-php-lambda-app",
+    "description": "A simple PHP Lambda application",
+    "require": {},
+    "scripts": {
+      "lint": "echo 'No linting configured.'",
+      "test": "echo 'No tests configured.'"
+    }
+  }
+  
